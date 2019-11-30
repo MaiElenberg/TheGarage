@@ -1,0 +1,11 @@
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\yaffa\source\repos\B19 Ex03 Mai 316265974 Shannie 205487846\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
